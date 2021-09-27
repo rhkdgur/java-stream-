@@ -83,7 +83,7 @@
    [2, 2, 4, 8, 8, 6]
 ```
 : map 연산은 Stream을 새로운 Stream으로 변환하는 연산을 합니다.(즉, 요소(item)을 변경하여 새로운 컨텐츠를 생성하는 기능)<br>
-위 예제에서 Integer 형태 List를 String형 List로 변환 과 함계 *2 곱하기를 통해 값에 변화를 주었다.<br>
+위 예제에서 Integer 형태 List를 String형 List로 변환 과 함께, 곱하기 2를 통해 값에 변화를 주었다.<br>
 
 <검색, 매칭>
 4.anyMatch<br>
